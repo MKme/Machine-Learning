@@ -4,9 +4,9 @@ Eric's Fun with various flavors of machine learning on Arduino and other microco
 
 Nano 33 BLE I use https://amzn.to/36bWdsy
 
+
+
 ### TinyML
-
-
 
 http://tinyml.org
 
@@ -14,7 +14,9 @@ Good YouTube channel with full length videos https://www.youtube.com/c/tinyML/vi
 
 Forum https://forums.tinyml.org/t/welcome-to-tinyml-forums/7
 
-Eric bought the book  
+Eric bought the TinyML Book https://amzn.to/2YfcBnC
+
+
 
 ### Edge Impulse 
 
