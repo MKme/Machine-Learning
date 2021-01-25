@@ -13,7 +13,8 @@ http://tinyml.org
 Good YouTube channel with full length videos https://www.youtube.com/c/tinyML/videos
 
 Forum https://forums.tinyml.org/t/welcome-to-tinyml-forums/7
- 
+
+Eric bought the book  
 
 ### Edge Impulse 
 
