@@ -39,7 +39,7 @@ My Videos HERE: https://www.youtube.com/mkmeorg
 
 # Edge Impulse 
 
-Can use your phone, Arduino or other dev board to do very small size neural net and model.  Nice web GUI and FREE usage for dev. Often promoted by Hackster.io with great videos and coverage
+-     Can use your phone, Arduino or other dev board to do very small size neural net and model.  Nice web GUI and FREE usage for dev. Often promoted by Hackster.io with great videos and coverage
 
 - Web: https://www.edgeimpulse.com/
 
