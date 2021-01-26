@@ -31,13 +31,16 @@ My Videos HERE: https://www.youtube.com/mkmeorg
 # Hardware:
 
 ### Arduino Nano 33 BLE Cortex M4F 3.3V logic and supports Wifi
+
 Buy Nano 33 on Amazon  https://amzn.to/36bWdsy
+
 Voice recognition with Nano:  https://www.youtube.com/watch?v=fRSVQ4Fkwjc&ab_channel=Digi-Key
 
 
 ### Raspberry Pi Pico RP2040 Dual-core ARM Cortex M0+ Processor: 
 
-Most of my Pi Pico notes can be found in my Raspberry Pi Repo here:  
+Most of my Pi Pico notes can be found in my Raspberry Pi Repo here: https://github.com/MKme/raspberrypi
+ 
 Buy the Raspberry Pi Pico here: https://amzn.to/2LUCtCN
 
 ### Textbook
