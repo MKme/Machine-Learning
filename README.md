@@ -71,9 +71,9 @@ Web:  https://www.tensorflow.org/lite/
 
 # TFLite Micro
 
-### Supports microcontroller devices.  
-
 ### This directly supports the Raspberry Pi Pico!!!  
+
+### Supports microcontroller devices.  
 
 TF Lite Micro Git repo for the Raspberry Pi Pico https://github.com/raspberrypi/pico-tflmicro
 
