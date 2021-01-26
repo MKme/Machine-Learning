@@ -47,8 +47,6 @@ Supports:
 -     C++ library
 -     AND STM32Cube.AI (STM board)  
 
-Handy!
-
 
 - Web: https://www.edgeimpulse.com/
 
@@ -96,9 +94,8 @@ TFLite is for mobile and IOT devices
 Supports:
 
 -     Raspberry Pi Pico 
--     Unknow other devices....  
+-     Unknown other devices. Unclear what is needed for installs/support on PC
 
-Supports microcontroller devices. Unclear what is needed for installs/support on PC
 
 - TF Lite Micro Git repo for the Raspberry Pi Pico https://github.com/raspberrypi/pico-tflmicro
 
