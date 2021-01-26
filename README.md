@@ -1,10 +1,34 @@
 # Machine-Learning
 Eric's Fun with various flavors of machine learning on Arduino and other microcontrollers to Raspberry Pi. It is now possible to run ML directly on microcontroller hardware using only
 kilobytes of memory.  The Arduino Nano 33 BLE is directly sported as well as Pi
-
 Nano 33 BLE I use in videos https://amzn.to/36bWdsy
 
+<p align="center">
+<br>
+ <img src="https://github.com/MKme/ResQ/blob/master/Photos/Laser%20Cut%20Cases/IMG_0831.jpg" width="700"/>
+ <br>
 
+<br>
+<br>
+🐦 <a href="https://twitter.com/mkmeorg">Twitter</a>
+| 📺 <a href="https://www.youtube.com/mkmeorg">YouTube</a>
+| 🌍 <a href="http://www.mkme.org">mkme.org</a><br>
+Support this project and become a patron on <a href="http://mkme.org/patreon">Eric's Patreon</a>.<br>
+Website, Forum and store are at http://mkme.org <br>
+Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>
+</p>
+
+
+# Links for more information
+Links HEEER
+
+Forum Thread HEER - http://mkme.org/forum/
+
+# FULL video tutorials:
+
+### Full playlist (all related videos/tutorials) HEEER:
+
+https://www.youtube.com/mkmeorg
 
 ### TinyML
 
