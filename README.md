@@ -28,6 +28,15 @@ https://www.edgeimpulse.com/
 Forum: https://forum.edgeimpulse.com/
 
 
+### Tensor Flow
+ 
+Grandaddy of ML 
+
+Will use this on the Pi robot/rover for vision
+
+My Robot Builds/Playlist on YouTube https://www.youtube.com/watch?v=i4qu3vGrniQ&list=PLxyM2a_cfnzjRXpokx_aADmTFS94OSxGf&ab_channel=MKmeLab
+
+
 ### TFLite 
 
 TFLite is for mobile and IOT devices
@@ -35,10 +44,10 @@ TFLite is for mobile and IOT devices
 Web:  https://www.tensorflow.org/lite/
 
 
-
 ### TFLite Micro
 
-This directly supports the Raspberry Pi Pico!!!  
+Supports microcontroller devices.  This directly supports the Raspberry Pi Pico!!!  
+
 TF Lite Micro Git repo for the Raspberry Pi Pico https://github.com/raspberrypi/pico-tflmicro
 
 The TensorFlow website has information on training, tutorials, and other resources. https://www.tensorflow.org/lite/microcontrollers
@@ -47,11 +56,6 @@ The TinyML Book is a guide to using TensorFlow Lite Micro across a variety of di
 
 TensorFlowLite Micro: Embedded Machine Learning on TinyML Systems has more details on the design and implementation of the framework. https://arxiv.org/pdf/2010.08678.pdf
 
-### Tensor Flow
- 
-Will use this on the Pi robot/rover for vision
-
-My Robot Builds/Playlist on YouTube https://www.youtube.com/watch?v=i4qu3vGrniQ&list=PLxyM2a_cfnzjRXpokx_aADmTFS94OSxGf&ab_channel=MKmeLab
 
 
 
