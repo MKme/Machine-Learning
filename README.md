@@ -44,9 +44,9 @@ Buy the Raspberry Pi Pico here: https://amzn.to/2LUCtCN
 - Learning Textbook TinyML https://amzn.to/2YfcBnC
 
 
-## Software/Systems:
+# Software/Systems:
 
-# Edge Impulse 
+## Edge Impulse 
 
 Can use your phone, Arduino or other dev board to do very small size neural net and model.  Nice web GUI and FREE usage for dev. Often promoted by Hackster.io with great videos and coverage
 Supports:
@@ -67,7 +67,7 @@ Supports:
 
 
 
-# TinyML
+## TinyML
 
 This seems to be the basis/compiler for some others possibly.  Few working examples in the videos 
 
@@ -82,7 +82,7 @@ This seems to be the basis/compiler for some others possibly.  Few working examp
 - Interesting Seminar video: https://www.youtube.com/watch?v=f9SNqDejOB0&ab_channel=tinyML
 
 
-# Tensor Flow
+## Tensor Flow
  
 Grandad of machine learning requiring significant hardware for learning and running
 
@@ -91,14 +91,14 @@ Grandad of machine learning requiring significant hardware for learning and runn
 - My Robot Builds/Playlist on YouTube https://www.youtube.com/watch?v=i4qu3vGrniQ&list=PLxyM2a_cfnzjRXpokx_aADmTFS94OSxGf&ab_channel=MKmeLab
 
 
-# TFLite 
+## TFLite 
 
 TFLite is for mobile and IOT devices
 
 - Web:  https://www.tensorflow.org/lite/
 
 
-# TFLite Micro
+## TFLite Micro
 
 Supports:
 
@@ -116,7 +116,7 @@ Supports:
 
 - TensorFlowLite Micro: Embedded Machine Learning on TinyML Systems has more details on the design and implementation of the framework. https://arxiv.org/pdf/2010.08678.pdf
 
-# STM32Cube.Ai
+## STM32Cube.Ai
 
 STM32Cube.Ai can be run alone or better yet- it is included in Edge Impulse above!!! Handy it can be used to compile for STM right from the web interface. It looks like it might only support 
 one board- ST iot discovery kit?  Need to look in to this.  
