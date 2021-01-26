@@ -43,8 +43,8 @@ Buy the Raspberry Pi Pico here: https://amzn.to/2LUCtCN
 ### Textbook
 - Learning Textbook TinyML https://amzn.to/2YfcBnC
 
-#----------------------------------------------------------------------------------------
-## Software/Systems 
+
+## Software/Systems---------------------------------------------
 
 # Edge Impulse 
 
