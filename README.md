@@ -17,11 +17,10 @@ Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>
 
 # Machine-Learning
 Eric's Fun with various flavors of machine learning on Arduino and other microcontrollers to Raspberry Pi. It is now possible to run ML directly on microcontroller hardware using only
-kilobytes of memory.  The Arduino Nano 33 BLE is directly sported as well as RP2040 from Raspberry Pi foundation.
+kilobytes of memory.  The Arduino Nano 33 BLE Cortex M4 is directly sported as well as the RP2040 from Raspberry Pi foundation.
 
-The hardest part for me has been understandign what the different machine learing softwares did and what hardware they are meant for- I have summarized this for you right here in the readme! 
+The hardest part for me has been understanding what the different machine learning softwares did and what hardware they are meant for- I have summarized this for you right here in the readme! 
 
-This repo is just my fun, files, notes and links on my journey to making a simple microcontroller do incredible things...
 
 
 ## Hardware Used:
