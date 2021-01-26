@@ -25,9 +25,7 @@ Links HEEER
 
 Forum Thread HEER - http://mkme.org/forum/
 
-### FULL video tutorials:
-
-### Full playlist (all related videos/tutorials) HEEER:
+### Full playlist / My Videos HEEER:
 
 https://www.youtube.com/mkmeorg
 
