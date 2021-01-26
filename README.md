@@ -28,7 +28,7 @@ Forum Thread HERE - http://mkme.org/forum/viewtopic.php?f=4&t=1137
 My Videos HERE: https://www.youtube.com/mkmeorg
 
 
-## Hardware Used:
+# Hardware:
 
 ### Arduino Nano 33 BLE Cortex M4F 3.3V logic and supports Wifi
 Buy Nano 33 on Amazon  https://amzn.to/36bWdsy
