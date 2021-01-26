@@ -25,9 +25,7 @@ Links HEEER
 
 Forum Thread HEER - http://mkme.org/forum/
 
-### Full playlist / My Videos HEEER:
-
-https://www.youtube.com/mkmeorg
+Full playlist / My Videos HEEER: https://www.youtube.com/mkmeorg
 
 # TinyML
 
