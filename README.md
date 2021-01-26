@@ -53,6 +53,9 @@ Supports Arduino, C++ library, AND STM32Cube.AI (STM board)  Handy!
 
 - Another Good Vid:  https://www.youtube.com/watch?v=yUre8L9DK-8&ab_channel=Hackster.io
 
+- Support for STM info https://www.edgeimpulse.com/blog/machine-learning-for-all-stm32-developers-with-stm32cube-ai-and-edge-impulse
+
+
 
 # TinyML
 
