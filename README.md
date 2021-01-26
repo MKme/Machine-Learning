@@ -34,8 +34,6 @@ My Videos HERE: https://www.youtube.com/mkmeorg
 
 Buy Nano 33 on Amazon  https://amzn.to/36bWdsy
 
-Voice recognition with Nano:  https://www.youtube.com/watch?v=fRSVQ4Fkwjc&ab_channel=Digi-Key
-
 
 ### Raspberry Pi Pico RP2040 Dual-core ARM Cortex M0+ Processor: 
 
@@ -62,12 +60,21 @@ Supports:
 
 - Forum: https://forum.edgeimpulse.com/
 
+- Edge Impulse Youtube channel- great videos and ideas : https://www.youtube.com/c/EdgeImpulse/videos
+
+- How to connect Nano 33 to Edge Impulse: https://www.youtube.com/watch?v=wOkMZUaPLUM&ab_channel=EdgeImpulse
+
 - Good Vid: https://www.youtube.com/watch?v=pYq6VgXeYwc&ab_channel=Hackster.io
 
 - Another Good Vid:  https://www.youtube.com/watch?v=yUre8L9DK-8&ab_channel=Hackster.io
 
 - Support for STM info https://www.edgeimpulse.com/blog/machine-learning-for-all-stm32-developers-with-stm32cube-ai-and-edge-impulse
 
+- Voice recognition instruction https://www.youtube.com/watch?v=vbIg4Up1Ts0&ab_channel=EdgeImpulse
+
+- Voice recognition with Arduino Nano 33 :  https://www.youtube.com/watch?v=fRSVQ4Fkwjc&ab_channel=Digi-Key
+
+-  How to compile a generic Arduino Library in Edge https://youtu.be/fRSVQ4Fkwjc?t=863
 
 
 ## TinyML
@@ -99,6 +106,10 @@ Grandad of machine learning requiring significant hardware for learning and runn
 TFLite is for mobile and IOT devices
 
 - Web:  https://www.tensorflow.org/lite/
+
+- Magic wand with Nano 33 https://www.youtube.com/watch?v=Lfv3WJnYhX0&ab_channel=AndriYadi
+
+- Magic Wand detailed project code https://www.hackster.io/andri/ai-powered-magic-wand-ab1c90
 
 
 ## TFLite Micro
