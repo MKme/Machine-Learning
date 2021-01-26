@@ -29,18 +29,6 @@ Forum Thread HEER - http://mkme.org/forum/
 
 Full playlist / My Videos HEEER: https://www.youtube.com/mkmeorg
 
-# TinyML
-
-http://tinyml.org
-
-Good YouTube channel with full length videos https://www.youtube.com/c/tinyML/videos
-
-Forum https://forums.tinyml.org/t/welcome-to-tinyml-forums/7
-
-Eric bought the TinyML Book https://amzn.to/2YfcBnC
-
-Interesting Seminar video: https://www.youtube.com/watch?v=f9SNqDejOB0&ab_channel=tinyML
-
 
 # Edge Impulse 
 
@@ -53,6 +41,20 @@ Forum: https://forum.edgeimpulse.com/
 Good Vid: https://www.youtube.com/watch?v=pYq6VgXeYwc&ab_channel=Hackster.io
 
 Another Good Vid:  https://www.youtube.com/watch?v=yUre8L9DK-8&ab_channel=Hackster.io
+
+
+# TinyML
+
+http://tinyml.org
+
+Good YouTube channel with full length videos https://www.youtube.com/c/tinyML/videos
+
+Forum https://forums.tinyml.org/t/welcome-to-tinyml-forums/7
+
+Eric bought the TinyML Book https://amzn.to/2YfcBnC
+
+Interesting Seminar video: https://www.youtube.com/watch?v=f9SNqDejOB0&ab_channel=tinyML
+
 
 # Tensor Flow
  
