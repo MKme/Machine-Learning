@@ -1,5 +1,7 @@
 # Machine-Learning
-Eric's Fun with various flavors of machine learning on Arduino and other microcontrollers to Raspberry Pi
+Eric's Fun with various flavors of machine learning on Arduino and other microcontrollers to Raspberry Pi. It is now possible to run ML directly on microcontroller hardware using only
+kilobytes of memory.  The Arduino Nano 33 BLE is directly sported as well as Pi
+
 Nano 33 BLE I use in videos https://amzn.to/36bWdsy
 
 
@@ -26,10 +28,24 @@ https://www.edgeimpulse.com/
 Forum: https://forum.edgeimpulse.com/
 
 
-### TFLite & TFLite Micro
+### TFLite 
 
-This looks interesting
+TFLite is for mobile and IOT devices
 
+Web:  https://www.tensorflow.org/lite/
+
+
+
+### TFLite Micro
+
+This directly supports the Raspberry Pi Pico!!!  
+TF Lite Micro Git repo for the Raspberry Pi Pico https://github.com/raspberrypi/pico-tflmicro
+
+The TensorFlow website has information on training, tutorials, and other resources. https://www.tensorflow.org/lite/microcontrollers
+
+The TinyML Book is a guide to using TensorFlow Lite Micro across a variety of different systems. https://tinymlbook.com/
+
+TensorFlowLite Micro: Embedded Machine Learning on TinyML Systems has more details on the design and implementation of the framework. https://arxiv.org/pdf/2010.08678.pdf
 
 ### Tensor Flow
  
