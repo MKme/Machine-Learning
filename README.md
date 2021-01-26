@@ -41,7 +41,7 @@ My Videos HERE: https://www.youtube.com/mkmeorg
 
 Can use your phone, Arduino or other dev board to do very small size neural net and model.  Nice web GUI and FREE usage for dev. Often promoted by Hackster.io with great videos and coverage
 
-- https://www.edgeimpulse.com/
+- Web: https://www.edgeimpulse.com/
 
 - Forum: https://forum.edgeimpulse.com/
 
@@ -54,7 +54,7 @@ Can use your phone, Arduino or other dev board to do very small size neural net 
 
 This seems to be the basis/compiler for some others possibly.  Few working examples in the videos 
 
-- http://tinyml.org
+- Web: http://tinyml.org
 
 - Good YouTube channel with full length videos https://www.youtube.com/c/tinyML/videos
 
@@ -65,7 +65,7 @@ This seems to be the basis/compiler for some others possibly.  Few working examp
 
 # Tensor Flow
  
-- Grandad of ML 
+Grandad of machine learning requiring significant hardware for learning and running
 
 - Will use this on the Pi robot/rover for vision analysis
 
