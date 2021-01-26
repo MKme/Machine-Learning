@@ -85,6 +85,8 @@ This seems to be the basis/compiler for some others possibly.  Few working examp
 
 - Good YouTube channel with full length videos https://www.youtube.com/c/tinyML/videos
 
+- Intro to TinyML Digikey series good https://www.youtube.com/watch?v=BzzqYNYOcWc&ab_channel=Digi-Key
+
 - TinyML for health care devices https://www.youtube.com/watch?v=Uyo5-7NHE-s&ab_channel=tinyML
 
 - Forum https://forums.tinyml.org/t/welcome-to-tinyml-forums/7
