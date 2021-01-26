@@ -1,6 +1,7 @@
 # Machine-Learning
 Eric's Fun with various flavors of machine learning on Arduino and other microcontrollers to Raspberry Pi. It is now possible to run ML directly on microcontroller hardware using only
 kilobytes of memory.  The Arduino Nano 33 BLE is directly sported as well as Pi
+
 Nano 33 BLE I use in videos https://amzn.to/36bWdsy
 
 <p align="center">
@@ -68,9 +69,11 @@ TFLite is for mobile and IOT devices
 Web:  https://www.tensorflow.org/lite/
 
 
-### TFLite Micro
+# TFLite Micro
 
-Supports microcontroller devices.  This directly supports the Raspberry Pi Pico!!!  
+### Supports microcontroller devices.  
+
+### This directly supports the Raspberry Pi Pico!!!  
 
 TF Lite Micro Git repo for the Raspberry Pi Pico https://github.com/raspberrypi/pico-tflmicro
 
