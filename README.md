@@ -27,10 +27,17 @@ The hardest part for me has been understanding what the different machine learni
 
 ## Hardware Used:
 
-- Arduino Nano 33 BLE Cortex M4F https://amzn.to/36bWdsy
+### Arduino Nano 33 BLE Cortex M4F 3.3V logic and supports Wifi
+Buy Nano 33 on Amazon  https://amzn.to/36bWdsy
+Voice recognition with Nano:  https://www.youtube.com/watch?v=fRSVQ4Fkwjc&ab_channel=Digi-Key
 
-- Raspberry Pi Pico RP2040 Dual-core ARM Cortex M0+ Processor: https://amzn.to/2LUCtCN
 
+###Raspberry Pi Pico RP2040 Dual-core ARM Cortex M0+ Processor: 
+
+Most of my Pi Pico notes can be found in my Raspberry Pi Repo here:  
+Buy the Raspberry Pi Pico here: https://amzn.to/2LUCtCN
+
+###Textbook
 - Learning Textbook TinyML https://amzn.to/2YfcBnC
 
 
