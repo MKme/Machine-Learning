@@ -23,6 +23,9 @@ It seems the Arm/Cortex processors support ML
 
 The hardest part for me has been understanding what the different machine learning softwares did and what hardware they are meant for- I have summarized this for you right here in the readme! 
 
+Forum Thread HERE - http://mkme.org/forum/viewtopic.php?f=4&t=1137
+
+My Videos HERE: https://www.youtube.com/mkmeorg
 
 
 ## Hardware Used:
@@ -40,10 +43,6 @@ Buy the Raspberry Pi Pico here: https://amzn.to/2LUCtCN
 ### Textbook
 - Learning Textbook TinyML https://amzn.to/2YfcBnC
 
-
-Forum Thread HERE - http://mkme.org/forum/viewtopic.php?f=4&t=1137
-
-My Videos HERE: https://www.youtube.com/mkmeorg
 
 
 # Edge Impulse 
