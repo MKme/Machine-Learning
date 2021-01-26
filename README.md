@@ -22,7 +22,7 @@ kilobytes of memory.  The Arduino Nano 33 BLE is directly sported as well as Pi
 Nano 33 BLE I use in videos https://amzn.to/36bWdsy
 
 
-# Links for more information
+# Eric's Handy Links
 Links HEEER
 
 Forum Thread HEER - http://mkme.org/forum/
