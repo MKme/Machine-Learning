@@ -30,9 +30,9 @@ https://amzn.to/36bWdsy
 - Textbook TinyML https://amzn.to/2YfcBnC
 
 
-Forum Thread HEER - http://mkme.org/forum/viewtopic.php?f=4&t=1137
+Forum Thread HERE - http://mkme.org/forum/viewtopic.php?f=4&t=1137
 
-Full playlist / My Videos HEEER: https://www.youtube.com/mkmeorg
+My Videos HERE: https://www.youtube.com/mkmeorg
 
 
 # Edge Impulse 
