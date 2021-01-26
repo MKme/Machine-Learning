@@ -5,7 +5,7 @@ Nano 33 BLE I use in videos https://amzn.to/36bWdsy
 
 <p align="center">
 <br>
- <img src="https://github.com/MKme/ResQ/blob/master/Photos/Laser%20Cut%20Cases/IMG_0831.jpg" width="700"/>
+ <img src="https://github.com/MKme/Machine-Learning/blob/main/Photos/machine-learning.jpg" width="700"/>
  <br>
 
 <br>
