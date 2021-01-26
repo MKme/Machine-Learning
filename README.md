@@ -17,7 +17,9 @@ Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>
 
 # Machine-Learning
 Eric's Fun with various flavors of machine learning on Arduino and other microcontrollers to Raspberry Pi. It is now possible to run ML directly on microcontroller hardware using only
-kilobytes of memory.  The Arduino Nano 33 BLE Cortex M4 is directly sported as well as the RP2040 from Raspberry Pi foundation.
+kilobytes of memory.  The Arduino Nano 33 BLE Cortex M4 is directly sported as well as the RP2040 from Raspberry Pi foundation.  
+
+It seems the Arm/Cortex processors support ML 
 
 The hardest part for me has been understanding what the different machine learning softwares did and what hardware they are meant for- I have summarized this for you right here in the readme! 
 
@@ -95,6 +97,12 @@ Supports microcontroller devices. Unclear what is needed for installs/support on
 
 - TensorFlowLite Micro: Embedded Machine Learning on TinyML Systems has more details on the design and implementation of the framework. https://arxiv.org/pdf/2010.08678.pdf
 
+# STM32CubeAi
+
+Seems the STM32 does have support (or did in Q4 2019)
+
+-  Blog post:  https://blog.st.com/introduction-to-stm32cube-ai/
+- Video: https://www.youtube.com/watch?v=OQHUJGxIth4&feature=emb_title&ab_channel=STMicroelectronics
 
 
 
