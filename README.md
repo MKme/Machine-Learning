@@ -32,12 +32,12 @@ Buy Nano 33 on Amazon  https://amzn.to/36bWdsy
 Voice recognition with Nano:  https://www.youtube.com/watch?v=fRSVQ4Fkwjc&ab_channel=Digi-Key
 
 
-###Raspberry Pi Pico RP2040 Dual-core ARM Cortex M0+ Processor: 
+### Raspberry Pi Pico RP2040 Dual-core ARM Cortex M0+ Processor: 
 
 Most of my Pi Pico notes can be found in my Raspberry Pi Repo here:  
 Buy the Raspberry Pi Pico here: https://amzn.to/2LUCtCN
 
-###Textbook
+### Textbook
 - Learning Textbook TinyML https://amzn.to/2YfcBnC
 
 
