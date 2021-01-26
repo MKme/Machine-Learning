@@ -22,7 +22,7 @@ kilobytes of memory.  The Arduino Nano 33 BLE is directly sported as well as Pi
 
 ## Hardware Used:
 
--     Nano 33 BLE I use in videos 
+- Nano 33 BLE I use in videos 
 https://amzn.to/36bWdsy
 
 -     Raspberry Pi Pico: 
