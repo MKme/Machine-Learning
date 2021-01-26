@@ -44,12 +44,15 @@ Interesting Seminar video: https://www.youtube.com/watch?v=f9SNqDejOB0&ab_channe
 
 # Edge Impulse 
 
-Can use your phone, Arduino or other dev board to do very small size neural net and model 
+Can use your phone, Arduino or other dev board to do very small size neural net and model.  Nice web GUI and FREE usage for dev 
 
 https://www.edgeimpulse.com/
 
 Forum: https://forum.edgeimpulse.com/
 
+Good Vid: https://www.youtube.com/watch?v=pYq6VgXeYwc&ab_channel=Hackster.io
+
+Another Good Vid:  https://www.youtube.com/watch?v=yUre8L9DK-8&ab_channel=Hackster.io
 
 # Tensor Flow
  
