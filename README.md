@@ -42,6 +42,8 @@ My Videos HERE: https://www.youtube.com/mkmeorg
 # Edge Impulse 
 
 Can use your phone, Arduino or other dev board to do very small size neural net and model.  Nice web GUI and FREE usage for dev. Often promoted by Hackster.io with great videos and coverage
+Supports Arduino, C++ library, AND STM32Cube.AI (STM board)  Handy!
+
 
 - Web: https://www.edgeimpulse.com/
 
@@ -97,9 +99,10 @@ Supports microcontroller devices. Unclear what is needed for installs/support on
 
 - TensorFlowLite Micro: Embedded Machine Learning on TinyML Systems has more details on the design and implementation of the framework. https://arxiv.org/pdf/2010.08678.pdf
 
-# STM32CubeAi
+# STM32Cube.Ai
 
-Seems the STM32 does have support (or did in Q4 2019)
+STM32Cube.Ai can be run alone or better yet- it is included in Edge Impulse above!!! Handy it can be used to compile for STM right from the web interface. It looks like it might only support 
+one board- ST iot discovery kit?  Need to look in to this.  
 
 -  Blog post:  https://blog.st.com/introduction-to-stm32cube-ai/
 - Video: https://www.youtube.com/watch?v=OQHUJGxIth4&feature=emb_title&ab_channel=STMicroelectronics
