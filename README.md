@@ -42,7 +42,12 @@ My Videos HERE: https://www.youtube.com/mkmeorg
 # Edge Impulse 
 
 Can use your phone, Arduino or other dev board to do very small size neural net and model.  Nice web GUI and FREE usage for dev. Often promoted by Hackster.io with great videos and coverage
-Supports Arduino, C++ library, AND STM32Cube.AI (STM board)  Handy!
+Supports:
+-     Arduino 
+-     C++ library
+-     AND STM32Cube.AI (STM board)  
+
+Handy!
 
 
 - Web: https://www.edgeimpulse.com/
@@ -88,7 +93,10 @@ TFLite is for mobile and IOT devices
 
 # TFLite Micro
 
-### This directly supports the Raspberry Pi Pico!!!  
+Supports:
+
+-     Raspberry Pi Pico 
+-     Unknow other devices....  
 
 Supports microcontroller devices. Unclear what is needed for installs/support on PC
 
