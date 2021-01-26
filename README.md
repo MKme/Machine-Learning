@@ -68,6 +68,8 @@ This seems to be the basis/compiler for some others possibly.  Few working examp
 
 - Good YouTube channel with full length videos https://www.youtube.com/c/tinyML/videos
 
+- TinyML for health care devices https://www.youtube.com/watch?v=Uyo5-7NHE-s&ab_channel=tinyML
+
 - Forum https://forums.tinyml.org/t/welcome-to-tinyml-forums/7
 
 - Interesting Seminar video: https://www.youtube.com/watch?v=f9SNqDejOB0&ab_channel=tinyML
