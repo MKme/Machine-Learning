@@ -24,13 +24,13 @@ Links HEEER
 
 Forum Thread HEER - http://mkme.org/forum/
 
-# FULL video tutorials:
+### FULL video tutorials:
 
 ### Full playlist (all related videos/tutorials) HEEER:
 
 https://www.youtube.com/mkmeorg
 
-### TinyML
+# TinyML
 
 http://tinyml.org
 
@@ -43,7 +43,7 @@ Eric bought the TinyML Book https://amzn.to/2YfcBnC
 Interesting Seminar video: https://www.youtube.com/watch?v=f9SNqDejOB0&ab_channel=tinyML
 
 
-### Edge Impulse 
+# Edge Impulse 
 
 Can use your phone, Arduino or other dev board to do very small size neural net and model 
 
@@ -52,7 +52,7 @@ https://www.edgeimpulse.com/
 Forum: https://forum.edgeimpulse.com/
 
 
-### Tensor Flow
+# Tensor Flow
  
 Grandaddy of ML 
 
@@ -61,7 +61,7 @@ Will use this on the Pi robot/rover for vision
 My Robot Builds/Playlist on YouTube https://www.youtube.com/watch?v=i4qu3vGrniQ&list=PLxyM2a_cfnzjRXpokx_aADmTFS94OSxGf&ab_channel=MKmeLab
 
 
-### TFLite 
+# TFLite 
 
 TFLite is for mobile and IOT devices
 
