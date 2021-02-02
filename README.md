@@ -93,6 +93,10 @@ This seems to be the basis/compiler for some others possibly.  Few working examp
 
 - Interesting Seminar video: https://www.youtube.com/watch?v=f9SNqDejOB0&ab_channel=tinyML
 
+## Reality AI tools/dashboard (TinyML on ARM MCUs)
+
+- Jan 2021 Neat preso on practical examples- REAL DATA https://www.youtube.com/watch?v=-gLawBn9Sn8&ab_channel=Arm
+
 
 ## Tensor Flow
  
