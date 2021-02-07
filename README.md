@@ -41,6 +41,8 @@ Most of my Pi Pico notes can be found in my Raspberry Pi Repo here: https://gith
  
 Buy the Raspberry Pi Pico here: https://amzn.to/2LUCtCN
 
+Person detection with the pico https://www.youtube.com/watch?v=a4NOwO1YTOE&ab_channel=AnchorageTechSolutions
+
 ### Textbook
 - Learning Textbook TinyML https://amzn.to/2YfcBnC
 
