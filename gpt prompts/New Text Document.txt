@@ -1,0 +1,37 @@
+he top 10 ChatGPT prompts that will save you hours a day
+1. Simplify complex information
+Prompt:
+"Break down the [INSERT YOUR TOPIC] into smaller, easier-to-understand parts. Use analogies and real-life examples to simplify the concept and make it more relatable."
+2. Learn from mistakes
+Prompt:
+"I made a mistake while practicing [INSERT YOUR SKILL]. Can you explain what went wrong and how I can avoid making the same mistake in the future?"
+3. Memorize key information
+Prompt:
+"What are the most important facts, dates, or formulas related to [INSERT YOUR TOPIC]? Help me create a memorization technique to remember them easily."
+4. Train AI to learn your writing:
+Prompt:
+"Analyze the text below for style, voice, and tone. Create a prompt to write a new paragraph in the same style, voice, and tone: [INSERT YOUR TEXT]"
+5. Apply your knowledge TO SOLVE PROBLEMS
+Prompt:
+"Use your knowledge of [INSERT YOUR TOPIC] to solve a real-world problem. Explain your thought process and share your solution."
+6. Compare and contrast
+Prompt:
+"Compare and contrast [INSERT CONCEPT 1] and [INSERT CONCEPT 2] to better understand their similarities and differences. Use examples to illustrate your points."
+7. Learn from mistakes
+Prompt:
+"I made a mistake while practicing [INSERT YOUR SKILL]. Can you explain what went wrong and how I can avoid making the same mistake in the future?"
+TIP: Improve the AI output by being more specific with your problem. Prompt example:
+"I made a [INSERT MISTAKE THAT OCCURED] while practicing [INSERT YOUR SKILL]. Can you explain what went wrong and how I can avoid making the same mistake in the future?"
+8. Connect with others
+Prompt:
+"Connect me with a community of learners and experts in [INSERT YOUR TOPIC]. How can I join a forum, social media group or other online community to share my knowledge and learn from others?"
+9. Summarize complex texts
+Prompt:
+"I need to read a complicated article related to [INSERT YOUR TOPIC]. Can you help me summarize the key points and takeaways from the text?"
+10. Stay updated WITH ANY TOPIC
+Prompt:
+"Help me stay updated on the latest developments and trends in [INSERT YOUR TOPIC]. What are some trustworthy resources I can follow to stay informed?"
+Btw, I created a cheat sheet for my team to copy and paste all of the most useful prompts.
+It makes life easier and is about 10x the size of this thread.
+Auto-sending it to everyone for free right now when you sign up for my AI newsletter.
+Comment "AI" if you want in and that cheat sheet with the most useful prompts.
